@@ -1,0 +1,23 @@
+eklemler ve duruş
+robot kütlesi ort 15.5 kg, düşme 0
+gövde yüksekliği ort 40.0 cm
+diz açısı ort (FL, FR, RL, RR): -1.24, -1.12, -1.15, -1.18 rad
+dizin mekanik sınıra 0,05 rad'dan yakın olduğu zaman %: 0.5, 0.3, 0.0, 0.0
+dizin yumuşak sınırın dışında olduğu zaman %: 3.7, 3.7, 0.1, 0.2
+ayağın en yüksek noktası medyan 4.1 cm, yüzde 90'ı 7.9 cm'nin altında
+torkun sınırın %95'ini geçtiği adım %0.09, en büyük eklem hızı 18.5 rad/s
+yürürken mekanik güç ort 26.6 W
+
+bacakların birbirine uzaklığı
+bölüm          arka ayak aralığı    ön ayak aralığı    arka/ön bacak en yakın    baldır teması
+               min / medyan (m)     min / medyan (m)   (cm)                      (%)
+dur            +0.097 / +0.154      +0.194 / +0.231      9.8 /  20.3               0.0
+ileri          +0.142 / +0.170      +0.177 / +0.209     16.3 /  18.0               0.0
+geri           +0.118 / +0.189      +0.143 / +0.192     11.9 /  17.3               0.0
+sola yan       +0.094 / +0.195      +0.100 / +0.234      9.8 /  10.0               0.0
+sağa yan       +0.080 / +0.205      +0.084 / +0.211      9.0 /   8.7               0.0
+yerinde sola   +0.105 / +0.193      +0.134 / +0.224     10.8 /  13.6               0.0
+yerinde sağa   +0.059 / +0.169      +0.078 / +0.211      6.6 /   9.3               0.0
+ileri+sola     +0.100 / +0.165      +0.151 / +0.215     12.3 /  15.5               0.0
+dur            +0.099 / +0.154      +0.174 / +0.232      9.9 /  18.3               0.0
+bütün kayıt: arka ayak aralığı medyan 17.4 cm; bacaklar en çok 4.6 cm (arka) ve 5.7 cm (ön) yaklaşıyor; 4 cm'den yakın oldukları zaman %0.00; baldır teması %0.00

@@ -1,0 +1,26 @@
+komut [0.2, 0.0, 0.0] -> ölçülen [0.252, -0.003, -0.02]  fark +26.0%  çapraz uyum 0.95  düşme 0
+komut [0.4, 0.0, 0.0] -> ölçülen [0.448, -0.007, -0.016]  fark +12.0%  çapraz uyum 0.94  düşme 0
+komut [0.6, 0.0, 0.0] -> ölçülen [0.634, -0.001, -0.013]  fark +5.7%  çapraz uyum 0.95  düşme 0
+komut [0.8, 0.0, 0.0] -> ölçülen [0.818, -0.002, -0.013]  fark +2.2%  çapraz uyum 0.95  düşme 0
+komut [1.0, 0.0, 0.0] -> ölçülen [0.993, -0.003, -0.013]  fark -0.7%  çapraz uyum 0.94  düşme 0
+komut [-0.2, 0.0, 0.0] -> ölçülen [-0.18, -0.023, 0.003]  fark +10.0%  çapraz uyum 0.99  düşme 0
+komut [-0.4, 0.0, 0.0] -> ölçülen [-0.378, -0.016, 0.001]  fark +5.5%  çapraz uyum 0.98  düşme 0
+komut [-0.6, 0.0, 0.0] -> ölçülen [-0.576, -0.006, -0.0]  fark +4.0%  çapraz uyum 0.97  düşme 0
+komut [-0.8, 0.0, 0.0] -> ölçülen [-0.772, 0.002, -0.0]  fark +3.5%  çapraz uyum 0.97  düşme 0
+komut [-1.0, 0.0, 0.0] -> ölçülen [-0.974, 0.002, 0.001]  fark +2.6%  çapraz uyum 0.96  düşme 0
+komut [0.0, 0.2, 0.0] -> ölçülen [0.035, 0.224, -0.017]  fark +12.0%  çapraz uyum 0.96  düşme 0
+komut [0.0, 0.4, 0.0] -> ölçülen [0.028, 0.39, -0.018]  fark -2.5%  çapraz uyum 0.96  düşme 0
+komut [0.0, 0.6, 0.0] -> ölçülen [0.027, 0.554, -0.025]  fark -7.7%  çapraz uyum 0.96  düşme 0
+komut [0.0, -0.2, 0.0] -> ölçülen [0.028, -0.229, -0.013]  fark -14.5%  çapraz uyum 0.98  düşme 0
+komut [0.0, -0.4, 0.0] -> ölçülen [0.026, -0.382, -0.01]  fark +4.5%  çapraz uyum 0.97  düşme 0
+komut [0.0, -0.6, 0.0] -> ölçülen [0.032, -0.537, -0.011]  fark +10.5%  çapraz uyum 0.97  düşme 0
+komut [0.0, 0.0, 0.3] -> ölçülen [0.063, 0.025, 0.282]  fark -6.0%  çapraz uyum 0.96  düşme 0
+komut [0.0, 0.0, 0.6] -> ölçülen [0.058, 0.018, 0.574]  fark -4.3%  çapraz uyum 0.95  düşme 0
+komut [0.0, 0.0, 1.0] -> ölçülen [0.054, 0.01, 0.977]  fark -2.3%  çapraz uyum 0.93  düşme 0
+komut [0.0, 0.0, -0.3] -> ölçülen [0.035, 0.027, -0.326]  fark -8.7%  çapraz uyum 0.97  düşme 0
+komut [0.0, 0.0, -0.6] -> ölçülen [0.024, 0.041, -0.619]  fark -3.2%  çapraz uyum 0.97  düşme 0
+komut [0.0, 0.0, -1.0] -> ölçülen [0.014, 0.034, -1.0]  fark +0.0%  çapraz uyum 0.97  düşme 0
+komut [0.5, 0.3, 0.0] -> ölçülen [0.52, 0.266, -0.022]  fark +4.0%, -11.3%  çapraz uyum 0.96  düşme 0
+komut [0.8, 0.0, 0.5] -> ölçülen [0.81, -0.008, 0.481]  fark +1.3%, -3.8%  çapraz uyum 0.95  düşme 0
+komut [-0.4, 0.0, -0.5] -> ölçülen [-0.378, -0.023, -0.487]  fark +5.5%, +2.6%  çapraz uyum 0.98  düşme 0
+komut [0.3, -0.3, 0.4] -> ölçülen [0.349, -0.283, 0.38]  fark +16.3%, +5.7%, -5.0%  çapraz uyum 0.95  düşme 0

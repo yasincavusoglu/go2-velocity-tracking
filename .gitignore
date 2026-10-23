@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.npz
+logs/*/events.out.tfevents.*
+logs/*/model_[0-9]*.pt
+!logs/2026-10-14_18-29-11/model_1499.pt
+video/*_ham.mp4
